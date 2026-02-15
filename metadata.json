@@ -1,0 +1,7 @@
+{
+  "name": "Ecos de la Imaginación",
+  "description": "Una interfaz de escritura creativa que transforma imágenes en historias narradas mediante IA avanzada.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
